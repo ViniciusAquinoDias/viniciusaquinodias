@@ -15,5 +15,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 ##
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estou estudando sobre Reactjs TypeScript e um pouco de php
+- 🌱 Estou estudando sobre Reactjs, TypeScript e um pouco de php
 - 📫 Me encontre no email: vdeaquinodias@gmail.com
