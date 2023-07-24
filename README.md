@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinicius👋.
+# Hi and welcome, i'm the Vinicius👋.
 
 - Full-Stack development
 - I'm currently learning about: React and DotNet.
