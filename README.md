@@ -1,13 +1,10 @@
 # Olá, eu sou o Vinicius👋.
 
-- Com 15 anos
-- Amante de desenvolvimento front-end.
-- Sou fã de Javascript e UI design também.
-- Atualmente estou aprendendo sobre: React, React-Native, My-Sql e Seo.
-_Um grande amor por desenvolvimento web_
-- 📫 Email para contato: vdeaquinodias@gmail.com
+- Full-Stack development
+- I'm currently learning about: React and DotNet.
+- 📫 Email for contact: vdeaquinodias@gmail.com.
 
-### Tecnologia e ferramentas
+### Technology and tools:
 <div align="center">
   
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
@@ -16,11 +13,11 @@ _Um grande amor por desenvolvimento web_
 
 ##
 
-### Redes sociais
+### Social Network:
 
 <div align="center">
   
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinícius-dias-8ab830248/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vinicius_dias24/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinícius-dias-8ab830248/)
   
 </div>
 
