@@ -2,8 +2,9 @@
 
 - Full-Stack development.
 - I'm currently learning about: React and DotNet.
-- 📫 Email for contact: vdeaquinodias@gmail.com.
 - And living in City of Rio de Janeiro.
+- Linkedin: www.linkedin.com/in/vinícius-de-aquino-dias-8ab830248.
+- 📫 Email for contact: vdeaquinodias@gmail.com.
 
 ##
 
