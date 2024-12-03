@@ -1,10 +1,10 @@
-# Hi and welcome, i'm the Vinicius👋.
+# Olá sou o Vinicius👋.
 
-- Full-Stack development.
-- I'm currently learning about: React and DotNet.
-- And living in City of Rio de Janeiro.
-- Linkedin: www.linkedin.com/in/vinícius-de-aquino-dias-8ab830248.
-- 📫 Email for contact: vdeaquinodias@gmail.com.
+- Desenvolvedor nas horas vagas.
+- Sempre em busca de novos aprendizados.
+- Brasileiro e carioca :)
+- Website: https://beacons.ai/viniciusdias_dev
+- E-mail: viniciusdeaquinodias@gmail.com
 
 ##
 
