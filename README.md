@@ -5,21 +5,7 @@
 - Brasileiro e carioca :)
 - Website: https://beacons.ai/viniciusdias_dev
 - E-mail: viniciusdeaquinodias@gmail.com
-
-##
-
-### Social Network:
-
-<div align="center">
-  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinícius-dias-8ab830248/)
-  
-</div>
-
-##
-  
-<div align="center"><a href="https://github.com/viniciusaquinodias"><img height="180em" widht="40%" src="https://github-readme-stats.vercel.app/api?username=viniciusaquinodias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="160em" widht="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusaquinodias&layout=compact&langs_count=7&theme=dark"/></div>
-  
+- 
 ##
 ### Technology and tools:
 
