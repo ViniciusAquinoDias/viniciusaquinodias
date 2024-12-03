@@ -5,7 +5,7 @@
 - Brasileiro e carioca :)
 - Website: https://beacons.ai/viniciusdias_dev
 - E-mail: viniciusdeaquinodias@gmail.com
-- 
+ 
 ##
 ### Technology and tools:
 
